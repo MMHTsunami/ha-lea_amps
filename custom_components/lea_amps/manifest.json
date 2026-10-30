@@ -1,0 +1,11 @@
+{
+  "domain": "lea_amps",
+  "name": "LEA Professional Amplifiers",
+  "codeowners": ["@MMHTsunami"],
+  "config_flow": true,
+  "documentation": "https://github.com/MMHTsunami/ha-lea_amps",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/MMHTsunami/ha-lea_amps/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}

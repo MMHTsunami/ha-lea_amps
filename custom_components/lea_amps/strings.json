@@ -1,0 +1,30 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to a LEA amplifier",
+        "description": "Enter the amplifier host and TCP port.",
+        "data": {
+          "host": "Host / IP address",
+          "port": "TCP port"
+        }
+      }
+    },
+    "error": {
+      "cannot_connect": "Unable to connect to the amplifier."
+    },
+    "abort": {
+      "already_configured": "This amplifier is already configured."
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "LEA amplifier options",
+        "data": {
+          "port": "TCP port"
+        }
+      }
+    }
+  }
+}
